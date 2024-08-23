@@ -1,4 +1,4 @@
-package testgroup.filmography.config;
+package testgroup.users.config;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
